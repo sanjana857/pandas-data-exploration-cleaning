@@ -1,0 +1,9 @@
+product_id,product_name,category,brand,cost_price
+P001,Laptop,Electronics,TechPro,45000
+P002,Smartphone,Electronics,CommX,25000
+P003,Headphones,Accessories,SoundMax,1500
+P004,Monitor,Electronics,VisionPlus,8000
+P005,Keyboard,Accessories,TypeRight,1200
+P006,Mouse,Accessories,ClickFast,600
+P007,Tablet,Electronics,TabLite,15000
+P008,Smartwatch,Accessories,TimeSmart,3000

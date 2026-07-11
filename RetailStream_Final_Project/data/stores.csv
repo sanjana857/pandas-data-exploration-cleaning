@@ -1,0 +1,5 @@
+store_id,store_name,region,city
+S01,Mumbai Central,West,Mumbai
+S02,Bangalore Hub,South,Bangalore
+S03,Delhi NCR,North,Delhi
+S04,Ahmedabad West,West,Ahmedabad
